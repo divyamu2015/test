@@ -6,7 +6,7 @@ class Linearlist
 {
  private:
         int length;
-        int maxsize;
+        int max;
         T*elemant;
 public:
        LinearList(int size=10);
